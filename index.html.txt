@@ -48,11 +48,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
-
-Create the script.js File:
-* Create another new file named script.js in the same folder where you saved index.html.
-* Copy and paste the following JavaScript code into this file
-
-
-document.addEventListener("DOMContent
